@@ -1,7 +1,5 @@
 import pandas as pd
 import matplotlib.pyplot as plt
-
-# Step 1: Load the dataset
 data = pd.read_csv('data/SuperMarket Analysis.csv')
 print("✅ Data loaded successfully!\n")
 print(data.head())  # Show first 5 rows
@@ -27,6 +25,5 @@ plt.savefig("output_chart.png")
 print("\n📸 Chart saved as 'output_chart.png'")
 plt.show()
 print("The chart has been displayed and saved as 'output_chaert.png'.")
-import os
 print("Current working directory:", os.getcwd())
 print("Saving chart as:", os.path.abspath("output_chart.png"))
