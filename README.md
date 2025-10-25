@@ -105,17 +105,6 @@ Enable user-specific dashboards
 Predictive analytics using Machine Learning
 
 
-
----Screenshots
-
-
-
-
-
-
-
-
-
 🤝 Contributors
 
 Mahathi Tarugu – Developer & Analyst
